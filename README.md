@@ -1,2 +1,2 @@
 # proyecto_inventario
- Sistema de control de Inventario
+ sistema de control de inventario
